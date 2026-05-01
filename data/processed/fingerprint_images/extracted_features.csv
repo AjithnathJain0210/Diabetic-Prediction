@@ -1,0 +1,31 @@
+fingerprint_type,ridge_count,ridge_density,minutiae_count,id
+arch,34,17,68,Arch 1
+loop,33,16,67,Arch 10
+arch,35,17,70,Arch 2
+arch,35,17,70,Arch 3
+arch,34,17,68,Arch 4
+arch,33,16,67,Arch 5
+arch,34,17,68,Arch 6
+arch,34,17,68,Arch 7
+arch,35,17,70,Arch 8
+arch,33,16,67,Arch 9
+loop,30,15,61,loop_1
+whorl,31,15,63,loop_10
+loop,32,16,65,loop_2
+arch,33,16,66,loop_3
+loop,32,16,65,loop_4
+whorl,32,16,65,loop_5
+loop,33,16,67,loop_6
+loop,33,16,67,loop_7
+whorl,34,17,68,loop_8
+whorl,33,16,66,loop_9
+whorl,27,13,54,whorl 10
+loop,27,13,55,whorl 6
+loop,31,15,62,whorl 7
+arch,30,15,60,whorl 8
+loop,26,13,53,whorl 9
+arch,29,14,58,Whorl1
+arch,31,15,63,Whorl2
+arch,30,15,60,whorl3
+arch,31,15,63,whorl4
+loop,29,14,59,whorl5
